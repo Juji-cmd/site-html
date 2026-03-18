@@ -15,9 +15,7 @@
 
 <p>Vara este anotimpul cel mai cald.</p>
 
-<!-- Imaginea cu link extern -->
-<a href="https://ibb.co/dsMbY5G5">
-    <img src="https://i.ibb.co/20h84kgk/vara.png" alt="vara" border="0" width="300">
+    <img src="images/vara.png" alt="vara" border="0" width="300">
 </a>
 
 </body>
